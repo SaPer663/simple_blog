@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "simple_blog"
+version = "0.1.0"
+description = ""
+authors = ["saper663 <saper663ru@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+Django = "^3.0.6"
+
+[tool.poetry.dev-dependencies]
+pytest = "^4.6"
+flake8 = "^3.8.1"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

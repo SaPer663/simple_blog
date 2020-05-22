@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/saper663/.cache/pypoetry/virtualenvs/simple-blog-86hSb1_6-py3.6/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}
